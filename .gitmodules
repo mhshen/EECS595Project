@@ -1,0 +1,6 @@
+[submodule "direct-preference-optimization"]
+	path = direct-preference-optimization
+	url = https://github.com/eric-mitchell/direct-preference-optimization
+[submodule "reward-bench"]
+	path = reward-bench
+	url = https://github.com/allenai/reward-bench
